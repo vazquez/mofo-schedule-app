@@ -8,4 +8,4 @@ $ npm install
 $ npm start
 ```
 
-Currently the apps are static HTML, CSS, and JS in /schedules where they can run on github pages.
+Currently the apps are static HTML, CSS, and JS in /public where they can run on github pages.
